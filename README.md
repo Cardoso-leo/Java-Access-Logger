@@ -11,7 +11,7 @@ As informações são salvas automaticamente em um arquivo `acessos.log`.
 
 ---
 
-## 🚀 Como funciona
+## Como funciona
 
 O programa captura:
 - O nome do usuário do sistema (`System.getProperty("user.name")`)
